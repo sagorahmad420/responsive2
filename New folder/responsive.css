@@ -1,0 +1,95 @@
+@media (max-width:1000px) {
+
+    .fixed-with {
+        width: 100%;
+        max-width: 100%;
+        margin: auto;
+    }
+    .banner-caption h1 {
+      
+        max-width: 930px;
+      
+    }
+    .service-item {
+        width: 31%;
+    }
+    .blog-left-notification {
+      
+        width: 100%;
+    }
+    .blog-item {
+        margin-bottom: 54px;
+    }
+    .blog-left-content {
+      
+        width: 100%;
+    }
+    .footer-left {
+        float: none;
+        width: 100%;
+      
+        text-align: center;
+    }
+    .socol-menu {
+        text-align: center;
+        margin-top: 20px;
+    }
+}
+
+/* ==========================================850=============================== */
+@media (max-width:850px) {
+    .header-left img {
+       
+        margin-left: 20px;
+    }
+    .header-left {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    .header-right {
+        float: none;
+        width: 85%;
+    }
+    .header-right ul li a {
+      
+        border-right: none;
+       
+    }
+    .header-right ul li a {
+        font-size: 22px;
+        padding: 0px 19px;
+    }
+    .service-item {
+        width: 97%;
+        margin-bottom: 20px;
+    }
+    .blog-left-content {
+        float: none;
+        width: 98%;
+    }
+    .blog-left-notification {
+      
+        width: 100%;
+    }
+}
+
+
+
+/* ====================================500======================== */
+
+@media (max-width:600px) {
+    .header-right ul li a {
+        font-size: 23px;
+        padding: 0px 19px;
+    }
+}
+
+
+@media (max-width:550px) {
+    
+    .header-right ul li a {
+        font-size: 20px;
+        padding: 0px 19px;
+    }
+}
